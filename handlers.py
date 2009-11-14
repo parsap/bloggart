@@ -6,6 +6,7 @@ from google.appengine.ext import deferred
 from google.appengine.ext import webapp
 
 import config
+import fix_path
 import markup
 import models
 import post_deploy

@@ -23,6 +23,7 @@ from django.utils import html
 from django.utils import text
 
 import config
+import fix_path
 import utils
 
 # Import markup module from lib/
